@@ -1,4 +1,5 @@
 Flask
-Werkzeug
-opencv-python
-numpy
+gunicorn
+OpenCV-python
+pydub
+other-required-packages
