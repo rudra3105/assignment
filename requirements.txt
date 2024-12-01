@@ -1,5 +1,5 @@
 Flask
 gunicorn
-OpenCV-python
+opencv-python
 pydub
-other-required-packages
+cryptography
